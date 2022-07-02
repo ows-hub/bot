@@ -6,7 +6,7 @@ STOP=15
 
 USE_PROCD=1
 PROG=/sbin/telegram_bot
-CONFIGURATION=telegramopenwrt
+CONFIGURATION=bot
 
 
 firewall_access() {
