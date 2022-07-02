@@ -6,7 +6,7 @@ STOP=15
 
 USE_PROCD=1
 PROG=/sbin/lanports
-CONFIGURATION=tbot
+CONFIGURATION=bot
 
 start_service () {
         PID=$(pgrep -f ${PROG})
